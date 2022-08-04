@@ -1,4 +1,4 @@
-#Tinder Clone Website
+Tinder Clone Website
 
 https://tindoggweb.netlify.app/
 
