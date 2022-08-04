@@ -1,1 +1,1 @@
-# tindog.github.io
+Tinder Clone Website
